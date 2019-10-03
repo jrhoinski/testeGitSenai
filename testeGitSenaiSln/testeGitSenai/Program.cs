@@ -7,6 +7,7 @@ namespace testeGitSenai
         static void Main(string[] args)
         {
             Console.WriteLine("primeiro teste..");
+            Console.WriteLine("segundo teste..");
             Console.ReadKey();
         }
     }
